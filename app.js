@@ -2,8 +2,8 @@ let amigos = [];
 let campo = "";
 let lista = document.getElementById("listaAmigos");
 lista.innerHTML = "";
-amigoSorteado = "";
-quantidade = 0;
+let amigoSorteado = "";
+let quantidade = 0;
 
 function limparCampo() {
   campo = document.getElementById("amigo");
