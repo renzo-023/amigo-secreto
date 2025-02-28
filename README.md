@@ -12,3 +12,8 @@ O **Amigo Secreto** é um algoritmo simples desenvolvido em JavaScript que permi
 ## Tecnologias Utilizadas
 - **JavaScript**: Linguagem principal do algoritmo.
 - **HTML/CSS**: Para interface gráfica.
+
+## 📌 Acesse a Página do Projeto
+
+Você pode testar o projeto diretamente pelo navegador através do seguinte link:
+[Amigo Secreto - Página Online](https://renzo-023.github.io/amigo-secreto/)
